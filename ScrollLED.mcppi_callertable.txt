@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	strlen
+	Div_8x8_S
+	Mul_8x8_S
+	ADC_Read
+		Delay_22us
+	Div_16x16_U
+	send_data
